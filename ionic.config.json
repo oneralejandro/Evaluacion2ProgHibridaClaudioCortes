@@ -1,0 +1,7 @@
+{
+  "name": "citasgestion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
